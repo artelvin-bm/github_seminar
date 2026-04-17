@@ -4,7 +4,7 @@
      Replace everything inside [ ] with your own info.
      ============================================================ -->
 
-# Hi, I'm [Art Elvin] 👋
+# Hi, I'm Art Elvin 👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 
