@@ -4,11 +4,11 @@
      Replace everything inside [ ] with your own info.
      ============================================================ -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Art Elvin] 👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 
-I'm a [year]-year CS student at [University], passionate about
+I'm a 3rd-year CS student at AUF, passionate about
 [your interest, e.g. web development / AI / mobile apps].
 
 ---
@@ -19,10 +19,10 @@ I'm a [year]-year CS student at [University], passionate about
 
 ## About me
 
-- 🎓 Studying [Degree] at [University]
-- 💻 Currently learning [language or framework]
-- 🌱 Building my first [type of project]
-- ⚡ Fun fact: [something interesting about you]
+- 🎓 Studying BSCS at AUF
+- 💻 Currently learning myself
+- 🌱 Building my first new years resolutions
+- ⚡ Fun fact: alksdfjl
 
 ---
 
